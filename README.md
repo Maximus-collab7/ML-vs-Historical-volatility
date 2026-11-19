@@ -14,7 +14,7 @@ First step : analyse of paper
   
   https://arxiv.org/abs/2605.19278
   
-##Other
+## Other for more details
 
 - Volatility Forecasting with Machine Learning
 and Intraday Commonality 
